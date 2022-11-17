@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tableau v2
+* source:	https://sketchfab.com/3d-models/tableau-v2-1e4d43692e9645549f6bda83deee7068
+* author:	artikora (https://sketchfab.com/artikora978)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tableau v2" (https://sketchfab.com/3d-models/tableau-v2-1e4d43692e9645549f6bda83deee7068) by artikora (https://sketchfab.com/artikora978) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
